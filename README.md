@@ -26,3 +26,5 @@ this is conflicted with [xsd](https://github.com/hibernate/hibernate-orm/blob/ma
    ...
 </xsd:sequence>
 ```
+
+[JBPM-9946](https://issues.redhat.com/browse/JBPM-9946)
