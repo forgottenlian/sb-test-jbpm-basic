@@ -1,15 +1,10 @@
 package com.forgottenlian.test.sbtestjbpmbasic.service;
 
-import java.util.Collection;
 import org.jbpm.kie.services.impl.KModuleDeploymentUnit;
 import org.jbpm.services.api.DeploymentService;
 import org.jbpm.services.api.ProcessService;
 import org.jbpm.services.api.RuntimeDataService;
-import org.jbpm.services.api.model.DeployedAsset;
-import org.jbpm.services.api.model.DeployedUnit;
-import org.jbpm.services.api.model.ProcessDefinition;
 import org.kie.api.KieServices;
-import org.kie.api.runtime.query.QueryContext;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
